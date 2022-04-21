@@ -1,2 +1,0 @@
-# ryo-recommend
-両学長のオススメ飲食店25選をfoliumでマッピングし、HTML出力したファイルです
